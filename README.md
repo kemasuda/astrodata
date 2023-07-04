@@ -21,3 +21,9 @@
 - [mass_radius.txt](https://github.com/kemasuda/astrodata/tree/main/lecture10_mass-radius/mass_radius.txt)：質量と半径の両方が測定された系外惑星のデータ
 - [lecture10.ipynb](https://github.com/kemasuda/astrodata/tree/main/lecture10_mass-radius/lecture10.ipynb)：教材ノートブック（質量・半径のプロットと太陽系惑星との比較、惑星の平均密度）
 - [lecture10_sol.ipynb](https://github.com/kemasuda/astrodata/tree/main/lecture10_mass-radius/lecture10_sol.ipynb)：演習の解説
+
+## [lecture11_hr](https://github.com/kemasuda/astrodata/tree/main/lecture11_hr)
+[Gaia衛星](https://ja.wikipedia.org/wiki/ガイア計画)のデータを用いて恒星の光度と有効温度の関係を示すプロット（[ヘルツシュプルング・ラッセル図; HR図](https://ja.wikipedia.org/wiki/ヘルツシュプルング・ラッセル図)を作成する。
+- [gaia_data.csv](https://github.com/kemasuda/astrodata/tree/main/lecture11_hr/gaia_data.csv)：恒星の見かけの等級・年周視差・有効温度のデータ
+- [lecture11.ipynb](https://github.com/kemasuda/astrodata/tree/main/lecture11_hr/lecture11.ipynb)：教材ノートブック（恒星の真の明るさと有効温度の関係）
+
