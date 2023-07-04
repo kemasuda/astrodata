@@ -4,6 +4,6 @@
 
 ## lecture9_transit
 [Kepler探査機](https://ja.wikipedia.org/wiki/ケプラー_(探査機)) により得られた恒星 KOI-2（通称[HAT-P-7](https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-7)）の光度曲線データ中のトランジットの解析。
-- koi2.txt: 光度曲線のデータ
-- lecture9-1.ipynb：教材ノートブック
-- lecture9-1_sol.ipynb：解説
+- [koi2.txt](https://github.com/kemasuda/astrodata/blob/main/lecture9_transit/koi2.txt): 光度曲線のデータ
+- [lecture9-1.ipynb](https://github.com/kemasuda/astrodata/blob/main/lecture9_transit/lecture9-1.ipynb)：教材ノートブック
+- [lecture9-1_sol.ipynb](https://github.com/kemasuda/astrodata/blob/main/lecture9_transit/lecture9-1_sol.ipynb)：解説
