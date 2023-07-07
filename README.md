@@ -25,5 +25,6 @@
 ## [lecture11_hr](https://github.com/kemasuda/astrodata/tree/main/lecture11_hr)
 [Gaia衛星](https://ja.wikipedia.org/wiki/ガイア計画)のデータを用いた恒星の光度と有効温度の関係を示すプロット（[ヘルツシュプルング・ラッセル図; HR図](https://ja.wikipedia.org/wiki/ヘルツシュプルング・ラッセル図)）の作成。
 - [gaia_data.csv](https://github.com/kemasuda/astrodata/tree/main/lecture11_hr/gaia_data.csv)：恒星の見かけの等級・年周視差・有効温度のデータ
-- [lecture11.ipynb](https://github.com/kemasuda/astrodata/tree/main/lecture11_hr/lecture11.ipynb)：教材ノートブック（恒星の真の明るさと有効温度の関係）
+- [lecture11.ipynb](https://github.com/kemasuda/astrodata/tree/main/lecture11_hr/lecture11.ipynb)：教材ノートブック（恒星の光度と有効温度の関係）
+- [lecture11_sol.ipynb](https://github.com/kemasuda/astrodata/tree/main/lecture11_hr/lecture11_sol.ipynb)：演習の解説
 
