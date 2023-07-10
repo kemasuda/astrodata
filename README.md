@@ -1,7 +1,7 @@
 
 # 2023年度春学期「学問への扉：天文データ解析」講義資料
 
-講義で使用したPythonプログラムとデータです。リンクから中身を参照できます。随時更新予定（最終更新：2023/7/4）
+講義で使用したPythonプログラムとデータです。リンクから中身を参照できます。随時更新予定（最終更新：2023/7/10）
 
 ## [lecture8_doppler](https://github.com/kemasuda/astrodata/tree/main/lecture8_doppler)
 [ペガスス座51番星（51 Peg）](https://ja.wikipedia.org/wiki/ペガスス座51番星)の視線速度データにおける惑星シグナルの解析。
