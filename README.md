@@ -37,7 +37,7 @@
 - [lecture12_sol.ipynb]()：演習の解説 [後日アップロード予定]
 
 ## [lecture13_hubble](https://github.com/kemasuda/astrodata/tree/main/lecture13_hubble)
-[Ia型超新星](https://ja.wikipedia.org/wiki/Ia型超新星)のデータを用いて[ハッブル-ルメートルの法則](https://ja.wikipedia.org/wiki/ハッブル–ルメートルの法則)を確認し、ハッブル定数を求める。
+[Calán/Tololo Supernova Survey](https://en.wikipedia.org/wiki/Calán/Tololo_Survey)による[Ia型超新星](https://ja.wikipedia.org/wiki/Ia型超新星)のデータを用いて[ハッブル-ルメートルの法則](https://ja.wikipedia.org/wiki/ハッブル–ルメートルの法則)を確認し、ハッブル定数を求める。
 - [supernovae.txt](https://github.com/kemasuda/astrodata/tree/main/lecture13_hubble/supernovae.txt)：Ia型超新星の赤方偏移とピーク等級のデータ
 - [lecture13.ipynb](https://github.com/kemasuda/astrodata/tree/main/lecture13_hubble/lecture13.ipynb)：教材ノートブック
 - [lecture13_sol.ipynb](https://github.com/kemasuda/astrodata/tree/main/lecture13_hubble/lecture13_sol.ipynb)：演習の解説
