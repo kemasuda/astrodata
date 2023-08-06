@@ -33,7 +33,7 @@
 ## [lecture12_sgrA*](https://github.com/kemasuda/astrodata/blob/main/lecture12_sgrA*)
 [いて座A*](https://ja.wikipedia.org/wiki/いて座A*)を公転する恒星[S2](https://ja.wikipedia.org/wiki/S2_(恒星))の軌道データを用いて、いて座A*に存在するブラックホールの質量を推定する。
 - [S2.csv](https://github.com/kemasuda/astrodata/blob/main/lecture12_sgrA*/S2.csv)：恒星S2の軌道データ
-- [lecture12.ipynb]()：教材ノートブック（S2の軌道長半径と公転周期の導出、ケプラーの第三法則の適用）[後日アップロード予定]
+- [lecture12.ipynb](https://github.com/kemasuda/astrodata/blob/main/lecture12_sgrA*/lecture12.ipynb)：教材ノートブック（S2の軌道長半径と公転周期の導出、ケプラーの第三法則の適用）
 - [lecture12_sol.ipynb]()：演習の解説 [後日アップロード予定]
 
 ## [lecture13_hubble](https://github.com/kemasuda/astrodata/tree/main/lecture13_hubble)
