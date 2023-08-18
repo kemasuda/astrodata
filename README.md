@@ -1,7 +1,7 @@
 
 # 2023年度春夏学期「学問への扉：天文データ解析」講義資料
 
-講義で使用したPythonプログラムとデータです。リンクから中身を参照できます。随時更新予定（最終更新：2023/7/29）
+講義で使用したPythonプログラムとデータです。リンクから中身を参照できます。随時更新予定（最終更新：2023/8/18）
 
 参考：[Pythonプログラミング入門のページ](https://utokyo-ipp.github.io)
 
@@ -34,7 +34,7 @@
 [いて座A*](https://ja.wikipedia.org/wiki/いて座A*)を公転する恒星[S2](https://ja.wikipedia.org/wiki/S2_(恒星))の軌道データを用いて、いて座A*に存在するブラックホールの質量を推定する。
 - [S2.csv](https://github.com/kemasuda/astrodata/blob/main/lecture12_sgrA*/S2.csv)：恒星S2の軌道データ
 - [lecture12.ipynb](https://github.com/kemasuda/astrodata/blob/main/lecture12_sgrA*/lecture12.ipynb)：教材ノートブック（S2の軌道長半径と公転周期の導出、ケプラーの第三法則の適用）
-- [lecture12_sol.ipynb]()：演習の解説 [後日アップロード予定]
+- [lecture12_sol.ipynb](https://github.com/kemasuda/astrodata/blob/main/lecture12_sgrA*/lecture12_sol.ipynb)：演習の解説
 
 ## [lecture13_hubble](https://github.com/kemasuda/astrodata/tree/main/lecture13_hubble)
 [Calán/Tololo Supernova Survey](https://en.wikipedia.org/wiki/Calán/Tololo_Survey)による[Ia型超新星](https://ja.wikipedia.org/wiki/Ia型超新星)のデータを用いて[ハッブル-ルメートルの法則](https://ja.wikipedia.org/wiki/ハッブル–ルメートルの法則)を確認し、ハッブル定数を求める。
